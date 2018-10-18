@@ -78,7 +78,7 @@ Besides new docs and features, here are other ways you can contribute:
 * no trailing whitespace; blank lines should have no spaces; new line at end-of-file
 * use the same coding style as the rest of the codebase
 
-## Questions?
+## Any questions?
 
 If you have any questions, please feel free to ask on the [mailing list](https://groups.google.com/d/forum/devdocs).
 
